@@ -1,0 +1,38 @@
+{
+  "name": "get-links-pictures",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popeskul/node-get-links-pictures.git"
+  },
+  "author": "popeskul pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popeskul/node-get-links-pictures/issues"
+  },
+  "homepage": "https://github.com/popeskul/node-get-links-pictures#readme",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.12.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.21.5",
+    "request": "^2.88.2"
+  }
+}
